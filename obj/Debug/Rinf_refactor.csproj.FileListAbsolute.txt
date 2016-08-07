@@ -1,0 +1,6 @@
+C:\Users\Claudiu\Documents\Proiecte\salon_coafura_online\Rinf_refactor\Rinf_refactor\bin\Debug\Rinf_refactor.exe.config
+C:\Users\Claudiu\Documents\Proiecte\salon_coafura_online\Rinf_refactor\Rinf_refactor\bin\Debug\Rinf_refactor.exe
+C:\Users\Claudiu\Documents\Proiecte\salon_coafura_online\Rinf_refactor\Rinf_refactor\bin\Debug\Rinf_refactor.pdb
+C:\Users\Claudiu\Documents\Proiecte\salon_coafura_online\Rinf_refactor\Rinf_refactor\obj\Debug\Rinf_refactor.csprojResolveAssemblyReference.cache
+C:\Users\Claudiu\Documents\Proiecte\salon_coafura_online\Rinf_refactor\Rinf_refactor\obj\Debug\Rinf_refactor.exe
+C:\Users\Claudiu\Documents\Proiecte\salon_coafura_online\Rinf_refactor\Rinf_refactor\obj\Debug\Rinf_refactor.pdb
